@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Drinks</string>
+    <string name="alcoholic">Alcoholic</string>
+    <string name="non_alcoholic">Non alcoholic</string>
+</resources>
